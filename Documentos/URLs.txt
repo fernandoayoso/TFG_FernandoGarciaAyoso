@@ -1,0 +1,39 @@
+URL TRABAJO FIN DE GRADO CESUR
+___________________________________________________________________________________________
+
+https://www.xataka.com/basics/como-crear-tu-propio-netflix-servidor-dlna-google-drive-plex
+https://github.com/pablokbs/plex-rpi
+https://www.youtube.com/watch?v=7LiHtL-veCc
+https://www.youtube.com/results?search_query=peladonerd+torrent+docker+
+https://www.youtube.com/watch?v=pZArt1yEw_o
+https://www.youtube.com/watch?v=5nlDqWHNkWc
+https://www.raspberrypi.com/software/
+https://www.duckdns.org/
+https://chat.openai.com/chat/3f85a049-acad-4678-861b-3f1839c29c65
+https://es.ephesossoftware.com/articles/diy/how-to-connect-a-hard-drive-to-raspberry-pi-and-why-you-should.html
+https://www.wundertech.net/how-to-setup-duckdns-on-a-raspberry-pi/comment-page-1/
+https://www.wundertech.net/setup-wireguard-on-a-raspberry-pi-vpn-setup-tutorial/
+https://github.com/pablokbs/plex-rpi
+https://www.youtube.com/watch?v=7LiHtL-veCc
+https://webtorrent.io/free-torrents
+https://webtorrent.io/free-torrents
+https://es.vpnmentor.com/blog/los-10-mejores-sitios-web-de-torrents-de/
+https://revhardware.com/general/jellyfin-y-raspberry-pi-un-sistema-gratuito-para-administrar-sus-medios/
+
+
+
+
+Fallo ******* ssh --> ssh-keygen -R -AQUÍ_PONES_LA_IP_DEL_SERVIDOR-
+
+http://fernandoayoso.duckdns.org:8096/
+http://fernandoayoso.duckdns.org:9091/
+usuario: pi
+contraseña: 1234Admin.
+
+MAC Raspberry Pi 4 fe80::ff90:a82d:52c6:dac1
+192.168.1.94  netmask 255.255.255.0  broadcast 192.168.1.255
+
+
+http://fernandoayoso.duckdns.org:19999/#after=-480;before=0;;theme=slate;utc=Europe%2FMadrid  
+
+https://viewnextsa365-my.sharepoint.com/:w:/r/personal/fernando_garciaa_viewnext_com/_layouts/15/doc2.aspx?sourcedoc=%7BE33D1D1B-929C-45CB-B584-4214A8D8566A%7D&file=Doc1.docx&action=default&mobileredirect=true&DefaultItemOpen=1&ct=1681822814501&wdOrigin=OFFICECOM-WEB.MAIN.EDGEWORTH&cid=b5e46a3e-bff0-4d60-9e54-eec5dbcb8913&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=feebb9f9-bfeb-4625-9656-5f1f8212b44a
